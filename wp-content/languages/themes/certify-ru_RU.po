@@ -1,0 +1,36 @@
+# Translation of Themes - Certify in Russian
+# This file is distributed under the same license as the Themes - Certify package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-30 16:32:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Certify\n"
+
+#. Theme Name of the plugin/theme
+msgid "Certify"
+msgstr "Certify"
+
+#. Description of the plugin/theme
+msgid "Certify is a responsive, multi-purpose WordPress theme. It's flexible and suitable for agencies, agency, blog, business, corporate, finance, account, consulting or portfolios. Customization is easy and straight-forward, with options provided that allow you to setup your site to perfectly fit your desired online presence."
+msgstr "Certify - отзывчивая многоцелевая тема WordPress. Гибкая, подходит для агентств, блогов, бизнес сайтов, корпоративных порталов или портфолио. Настройка проста и интуитивно понятна. Предоставленные опции позволяют вам настроить свой сайт так, чтобы он идеально соответствовал желаемому онлайн-присутствию."
+
+#: header/header-navbar.php:48
+msgid "Toggle navigation"
+msgstr "Показать/Скрыть навигацию"
+
+#. Theme URI of the plugin/theme
+msgid "https://spicethemes.com/certify-wordpress-theme"
+msgstr "https://spicethemes.com/certify-wordpress-theme"
+
+#. Author of the plugin/theme
+msgid "SpiceThemes"
+msgstr "SpiceThemes"
+
+#. Author URI of the plugin/theme
+msgid "https://spicethemes.com/"
+msgstr "https://spicethemes.com/"

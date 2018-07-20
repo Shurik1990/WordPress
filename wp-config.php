@@ -20,13 +20,13 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define('DB_NAME', 'my');
+define('DB_NAME', 'wordpress');
 
 /** Имя пользователя MySQL */
-define('DB_USER', 'root');
+define('DB_USER', 'wordpress');
 
 /** Пароль к базе данных MySQL */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', 'PDYmc6ME47bvtfaL');
 
 /** Имя сервера MySQL */
 define('DB_HOST', 'localhost');
@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         '}Zcc5Q7V+Jzhk2|gESz$W6f-69[wbyVX:SpbbKS*!u-O3bQo5-8PrpwpOD7?W++K');
-define('SECURE_AUTH_KEY',  'F,qfYi^5?;V! (vCt@E6jZx:`BP9}TCgFJ<W]WtWIX^9rc5D4uOOyQ^xv=Vd}QRn');
-define('LOGGED_IN_KEY',    'i]@< 2Ae|5bu%i!QWu}V:^=<>#G2}+zZS=DI,S<N[p:a|WR~|Z2$y)V&1sK|+f3A');
-define('NONCE_KEY',        'beu~{Ek|f}8[&DK?6rma|eSm|zOj`+o_Q2MGr7sw[-n;U/<|]ZRidaP9^d8C~)<9');
-define('AUTH_SALT',        'X6(0 <R!9k|cW a%otScpY*]US}Kv^Li8<d$/;]3gx|%/m4a+5],*fFWh3y:@7mu');
-define('SECURE_AUTH_SALT', '>*:dw_G?Rg* BF,`V34edBnk+$k5[M[R/rq+ta[b?+5j_`?e]aiZSU~P-zFDs-i.');
-define('LOGGED_IN_SALT',   'drqVdh`1EI. -KfoR<qIB1{I.C,_{ f7Qs-#|r@Lmo?S_LAZPF{onZ:q4F=#Wmd ');
-define('NONCE_SALT',       '9WJIA,pk6Y|}uvhlg0gT~JW-|9p}?d)wQoB2UEo*Jnsr#)U_&MP+*^kq)Q84HE.]');
+define('AUTH_KEY',         'впишите сюда уникальную фразу');
+define('SECURE_AUTH_KEY',  'впишите сюда уникальную фразу');
+define('LOGGED_IN_KEY',    'впишите сюда уникальную фразу');
+define('NONCE_KEY',        'впишите сюда уникальную фразу');
+define('AUTH_SALT',        'впишите сюда уникальную фразу');
+define('SECURE_AUTH_SALT', 'впишите сюда уникальную фразу');
+define('LOGGED_IN_SALT',   'впишите сюда уникальную фразу');
+define('NONCE_SALT',       'впишите сюда уникальную фразу');
 
 /**#@-*/
 
@@ -71,7 +71,7 @@ $table_prefix  = 'wp_';
  * Измените это значение на true, чтобы включить отображение уведомлений при разработке.
  * Разработчикам плагинов и тем настоятельно рекомендуется использовать WP_DEBUG
  * в своём рабочем окружении.
- * 
+ *
  * Информацию о других отладочных константах можно найти в Кодексе.
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
